@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikrishna s
 - 👀 I’m a MERN Stack Developer
-- 🌱 Yeah Mongo Express React Node 
+- 🌱 Mongo Express React Node 
 - 📫 Reach Me out At 
       srikrisna1234@gmail.com
    
